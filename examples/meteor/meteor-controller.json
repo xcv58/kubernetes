@@ -19,7 +19,7 @@
         "containers": [
           {
             "name": "meteor",
-            "image": "chees/meteor-gke-example:latest",
+            "image": "xcv58/maybe:latest",
             "ports": [
               {
                 "name": "http-server",
